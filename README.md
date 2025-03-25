@@ -5,7 +5,7 @@ Hi, I'm Oscar Saravia 🙋🏻‍♂️!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Development;DevOps;Freelancer;System+Admin;CyberSecurityDS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Development;DevOps;Freelancer;System+Admin;CyberSecurity;Always%20learning%20new%20things&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -108,3 +108,8 @@ $ whoami
 </p>
 
 ---
+
+<div align="center">
+  <h1><b><i>"Sic Parvis Magna"🦅</i></b></h1>
+  <h3><i>“La grandeza nace de pequeños comienzos.”</i></h3>
+</div>
